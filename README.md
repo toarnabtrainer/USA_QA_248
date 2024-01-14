@@ -72,7 +72,7 @@ https://youtube.com/playlist?list=PL6AdzyjjD5HCqilwLbXB-UEYCg5LopFPA
 * **MS-Excel Cheat Sheet:**	https://drive.google.com/file/d/1dGDoOiIhFFD71FxUxMO-ZYYE2UYLNGhR/view?usp=sharing
 <hr>
 
-**Selenium Sample Classwork Project Works:**<br> 
+**Selenium Sample Classwork Project:**<br> 
 https://drive.google.com/drive/folders/19kPZUBzevRacCTadz-3O40waZFm_rqsU?usp=sharing
 
 <hr>
